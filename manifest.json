@@ -5,10 +5,10 @@
     "components":  [
                        {
                            "id":  "FireProWrestlingWorldAssistant",
-                           "version":  "1.8.5",
-                           "info_url":  "https://github.com/deadman36g/fire-pro-manager-updates/releases/tag/v1.8.5",
-                           "download_url":  "https://github.com/deadman36g/fire-pro-manager-updates/releases/download/v1.8.5/FireProWrestlingWorldManager-1.8.5-Setup.exe",
-                           "sha256":  "7341a02d3ebb94af4d11f07fa6c15042b617d8c931f1789d3a6969843a8e1803"
+                           "version":  "1.8.6",
+                           "info_url":  "https://github.com/deadman36g/fire-pro-manager-updates/releases/tag/v1.8.6",
+                           "download_url":  "https://github.com/deadman36g/fire-pro-manager-updates/releases/download/v1.8.6/FireProWrestlingWorldManager-1.8.6-Setup.exe",
+                           "sha256":  "be22989afaa8159a615e76df1cecbd3a405fe05b2ab16289150569d39d0269a2"
                        }
                    ]
 }
