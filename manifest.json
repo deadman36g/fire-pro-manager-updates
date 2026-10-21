@@ -1,14 +1,14 @@
 {
-    "schema":  "fpmm.trusted-updates",
-    "version":  "1",
-    "source_name":  "Fire Pro Wrestling World Manager official updates",
-    "components":  [
-                       {
-                           "id":  "FireProWrestlingWorldAssistant",
-                           "version":  "1.8.7",
-                           "info_url":  "https://github.com/deadman36g/fire-pro-manager-updates/releases/tag/v1.8.7",
-                           "download_url":  "https://github.com/deadman36g/fire-pro-manager-updates/releases/download/v1.8.7/FireProWrestlingWorldManager-1.8.7-Setup.exe",
-                           "sha256":  "cc24452bd7d4b1aca6f3302465e78de0179bdbf3ed1ddcc8d0cd8ec33f75a9de"
-                       }
-                   ]
+  "schema": "fpmm.trusted-updates",
+  "version": "1",
+  "source_name": "Fire Pro Wrestling World Manager official updates",
+  "components": [
+    {
+      "id": "FireProWrestlingWorldAssistant",
+      "version": "2.1.2",
+      "info_url": "https://github.com/deadman36g/fire-pro-manager-updates/releases/tag/v2.1.2",
+      "download_url": "https://github.com/deadman36g/fire-pro-manager-updates/releases/download/v2.1.2/FireProWrestlingWorldManager-2.1.2-Setup.exe",
+      "sha256": "e1bf9d69a1ef33da073c13d191c87cc7ef7de7aec88f8a51803b38b6a70eb0f0"
+    }
+  ]
 }
